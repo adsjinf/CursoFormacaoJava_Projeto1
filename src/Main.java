@@ -4,5 +4,6 @@ public class Main {
             /* primeiro push para cincronizar um git com github */
         System.out.println("Hello world!");
         System.out.println("Primeiro projeto integrando Java + Git + GitHub");
+        System.out.println("Primeiro projeto integrando Java + Git + GitHub");
     }
 }
